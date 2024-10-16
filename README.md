@@ -1,5 +1,8 @@
 # Chess-Outcome-Prediction
-Given a user's pgn trains a supervised learning model on a user's game history to predict the likelihood of a win, loss, or draw against future opponents.
+Given a user's game history trains a supervised learning model on a user's game history to predict the likelihood of a win, loss, or draw against future opponents.
+
+# Getting a PGN
+It is reccomended to use https://www.openingtree.com/ to download both the game history as white and as black. 
 
 #Considerations
 - Opening played
